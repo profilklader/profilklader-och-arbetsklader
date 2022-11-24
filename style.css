@@ -90,3 +90,8 @@
 span.navigation-flamsakra-klader{
   padding: 0!important;
 }
+
+a {
+  text-decoration: underline;
+  color: darkblue;
+}
